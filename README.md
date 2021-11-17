@@ -6,7 +6,12 @@ Bminer also comes with REST APIs to facilitate production deployments.
 
 LINKS:
 
-Website: http://softube.ir/softwares/bminer/  Download Link: https://github.com/mjkbit/Claymore/releases/download/claymore/Claymore-dual.zip
+Website: http://softube.ir/softwares/bminer/ 
+Download Link:
+https://github.com/mjkbit/BMINER/releases/download/bminer/bminer-windows.64-v16.4.9.zip
+https://github.com/mjkbit/BMINER/releases/download/bminer/bminer-lite-v16.4.9.zip
+https://github.com/mjkbit/BMINER/releases/download/bminer/bminer-linux-v16.4.9.tar.gz
+
 
 
 Donate Us: Ethereum & All BEP2 Coins:
