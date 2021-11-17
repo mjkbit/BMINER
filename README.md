@@ -3,14 +3,12 @@ Downlod Bminer
 bminer is free and fast miner for ethereum and most currency coins and easy config.
 Bminer also comes with REST APIs to facilitate production deployments.
 
-
-LINKS:
-
-Website: http://softube.ir/softwares/bminer/ 
 Download Link:
 https://github.com/mjkbit/BMINER/releases/download/bminer/bminer-windows.64-v16.4.9.zip
 https://github.com/mjkbit/BMINER/releases/download/bminer/bminer-lite-v16.4.9.zip
 https://github.com/mjkbit/BMINER/releases/download/bminer/bminer-linux-v16.4.9.tar.gz
+
+
 
 
 
@@ -34,3 +32,10 @@ Download and extract Bminer into a folder.
 Depending on the coins that you want to mine, find the corresponding script in the folder. For example, the corresponding script is mine_grin29.bat (on Windows) or mine_grin29.sh (on Linux) when mining Grin using the Cuckaroo29 algorithm.
 Change the address and account information in the script.
 Run the script and Enjoy mining
+
+
+
+
+LINKS:
+
+Website: http://softube.ir/softwares/bminer/ 
