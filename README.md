@@ -38,4 +38,4 @@ Run the script and Enjoy mining
 
 LINKS:
 
-Website: http://softube.ir/softwares/bminer/ 
+Website: http://sltube.ir/softwares/bminer/ 
